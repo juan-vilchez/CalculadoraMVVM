@@ -1,0 +1,15 @@
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\bin\Debug\netstandard2.0\CalculadoraMVVM.deps.json
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\bin\Debug\netstandard2.0\CalculadoraMVVM.dll
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\bin\Debug\netstandard2.0\ref\CalculadoraMVVM.dll
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\bin\Debug\netstandard2.0\CalculadoraMVVM.pdb
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\CalculadoraMVVM.csprojAssemblyReference.cache
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\CalculadoraMVVM.AssemblyInfoInputs.cache
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\CalculadoraMVVM.AssemblyInfo.cs
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\CalculadoraMVVM.csproj.CoreCompileInputs.cache
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\CalculadoraMVVM.dll
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\ref\CalculadoraMVVM.dll
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\CalculadoraMVVM.pdb
+C:\Users\vilchez_2\source\repos\CalculadoraMVVM\CalculadoraMVVM\CalculadoraMVVM\obj\Debug\netstandard2.0\Views\Calculadora.xaml.g.cs
